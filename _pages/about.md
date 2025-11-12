@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I’m Grace Long, a Geography & Environmental Studies student at the University of Colorado Colorado Springs (UCCS), where I research sustainable land use, game ranching, and savanna ecosystems. 
 
-My honors thesis explores bush encroachment, vegetation palatability, and rangeland health in semi-arid South African landscapes using GIS, remote sensing, and field data. I’m particularly interested in how different land-use practices — like game ranching and livestock grazing — shape ecological and social sustainability.
+My honors thesis explores bush encroachment, vegetation palatability, and rangeland health in semi-arid South African landscapes using GIS, remote sensing, and field data. I’m particularly interested in how different land-use practices, like game ranching and livestock grazing, shape ecological and social sustainability.
 
 Beyond my research, I work as a Teaching and Learning Assistant in the GES Department, where I support courses in remote sensing and quantitative analysis. I’m passionate about using geography to tell environmental stories—translating spatial data into narratives that highlight how people and ecosystems interact.
 
